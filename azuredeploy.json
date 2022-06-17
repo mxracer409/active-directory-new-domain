@@ -4,14 +4,14 @@
   "parameters": {
     "adminUsername": {
       "type": "string",
-      "defaultValue":"Administrator123",
+      "defaultValue":"WWTAdmin123",
       "metadata": {
         "description": "The name of the administrator account of the new VM and domain"
       }
     },
     "adminPassword": {
       "type": "securestring",
-      "defaultValue":"password123!!!",
+      "defaultValue":"WWTwwtWWT123!!!",
       "metadata": {
         "description": "The password for the administrator account of the new VM and domain"
       }
